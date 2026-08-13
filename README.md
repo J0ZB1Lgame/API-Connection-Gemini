@@ -2,7 +2,7 @@
 
 Script en Python que se conecta a la API de Google Gemini (Google AI Studio) usando la librería oficial `google-genai`, envía un prompt de prueba y muestra la respuesta del modelo en consola.
 
-> Proyecto realizado para la asignatura ** Desarrollo de aplicaciones con IA**.
+> Proyecto realizado para la asignatura **Desarrollo de aplicaciones con IA**.
 
 ## Requisitos previos
 
